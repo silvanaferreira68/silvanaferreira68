@@ -1,5 +1,5 @@
 ### Hello, Welcome to my GitHub!:tulip:
-
+My name is Silvana, I am a student of Systems Analysis and Development, I am in my 1st semester and in career transition.
 
  🌱:books:I’m currently learning ...
 
