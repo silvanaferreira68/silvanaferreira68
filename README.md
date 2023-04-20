@@ -1,7 +1,5 @@
 ### Hello, Welcome to my GitHub!:tulip:
 
-![Snake animation](https://github.com/silvanaferreira68/silvanaferreira68/blob/output/github-contribution-grid-snake.svg)
-
 My name is Silvana, 
 I am a student of Systems Analysis and Development, 
 I am in my 1st semester and in career transition.      
