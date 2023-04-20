@@ -1,5 +1,8 @@
 ### Hello, Welcome to my GitHub!:tulip:
-My name is Silvana, I am a student of Systems Analysis and Development, I am in my 1st semester and in career transition.
+My name is Silvana, I am a student of Systems Analysis and Development, 
+I am in my 1st semester and in career transition.
+My goal is to work as a Front-end, and so in my spare time 
+I am seeking more knowledge about the profession.
 
  🌱:books:I’m currently learning ...
 
