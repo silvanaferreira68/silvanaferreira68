@@ -2,7 +2,7 @@
 
 My name is Silvana, 
 I am a student of Systems Analysis and Development, 
-I am in my 1st semester and in career transition.      
+I am in my 1nd semester and in career transition.      
   My goal is to work as a Front-end, and so in my spare time 
 I am seeking more knowledge about the profession.:rocket::closed_book:
 
